@@ -1,4 +1,4 @@
-=== Scrollbar Wp ===
+=== Scrollbar ===
 Contributors: themepoints
 Donate link: http://themepoints.com
 Tags: scrollbar, custom scrollbar, navigation, scroll, scrollbar, scrollbars, wordpress scrollbar
