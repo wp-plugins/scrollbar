@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Scrollbar Wp
+Plugin Name: Scrollbar
 Plugin URI: http://themepoints.com
 Description: Scrollbars wp is really simple, With CSS3 it’s kind of magic! You can design your own scrollbar and use it for your website. You can use these scrollbars for every type of Website.
 Version: 1.0
