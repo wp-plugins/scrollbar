@@ -2,8 +2,8 @@
 Contributors: themepoints
 Donate link: http://themepoints.com
 Tags: scrollbar, custom scrollbar, navigation, scroll, scrollbar, scrollbars, wordpress scrollbar
-Requires at least: 4.1.1
-Tested up to: 3.9
+Requires at least: 3.8
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,5 +50,8 @@ Scrollbar wp is fully customizable wordpress scrollbar plugin.You can change scr
 
 == Changelog ==
 
-= 1.0
+= 1.0 =
+* Support wordpress latest version
+
+= 1.0 =
 * Initial release
